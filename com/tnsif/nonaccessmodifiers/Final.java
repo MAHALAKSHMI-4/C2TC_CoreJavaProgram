@@ -12,12 +12,6 @@ public class Final {
 		f.print();
 	}
 	
-	class Example extends Final{
-		void print() {
-			
-		}
-		
-	}
 	
 
 }
